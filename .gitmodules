@@ -4,3 +4,9 @@
 [submodule "test2"]
 	path = test2
 	url = https://gist.github.com/934e6976b00638a2e96b92221a21cee7.git
+[submodule "pytip_1_snippet_1"]
+	path = pytip_1_snippet_1
+	url = https://gist.github.com/7c9a6775bb7d0117ed794d89c746568f.git
+[submodule "pytip_1_snippet_2"]
+	path = pytip_1_snippet_2
+	url = https://gist.github.com/63a7d21790fd34ca045a24b61fa43d2a.git
